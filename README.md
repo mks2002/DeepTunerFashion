@@ -1,5 +1,3 @@
-Here’s the **complete `README.md`** with everything embedded (plots, evaluation, and results) in a single file—ideal for directly uploading to GitHub without any extra files:
-
 ---
 
 ```markdown
