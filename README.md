@@ -76,17 +76,19 @@ This project tackles the Fashion MNIST image classification task using deep lear
 
 ## 🗂 Directory Structure
 
-📁 Fashion-MNIST-CNN-Tuning
-├── mnist_fashion_classification.ipynb
-├── README.md
-
+```
+📁 Fashion-MNIST-CNN-Tuning  
+├── mnist_fashion_classification.py  
+├── mnist_fashion_classification.ipynb  
+└── README.md
+```
 
 ---
 
 ## 🚀 How to Run
 
 1. Clone this repo  
-   `git clone https://github.com/yourusername/yourrepo.git`
+   `git clone https://github.com/mks2002/DeepTunerFashion`
 
 2. Install dependencies  
    `pip install -r requirements.txt`
