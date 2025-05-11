@@ -1,4 +1,3 @@
----
 
 ```markdown
 # 🧠 Fashion MNIST Image Classification (CNN with Hyperparameter Tuning)
@@ -117,4 +116,4 @@ This project tackles the Fashion MNIST image classification task using deep lear
 This project is licensed under the MIT License. See the LICENSE file for details.
 ```
 
----
+
