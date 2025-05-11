@@ -1,5 +1,3 @@
-
-```markdown
 # 🧠 Fashion MNIST Image Classification (CNN with Hyperparameter Tuning)
 
 This project tackles the Fashion MNIST image classification task using deep learning models, beginning with ANN and transitioning to CNN. Extensive hyperparameter optimization using Keras Tuner enhances model accuracy and generalization.
@@ -42,11 +40,9 @@ This project tackles the Fashion MNIST image classification task using deep lear
 ### 📉 Loss & Accuracy Curves
 
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/yourusername/yourrepo/main/a7680b9f-56c6-4c6f-bfa7-70fcaa7856e5.png](https://github.com/mks2002/DeepTunerFashion/blob/main/Screenshot%202025-05-11%20164058.png)" width="400" title="Loss & Accuracy Curves"/>
-  <img src="[https://raw.githubusercontent.com/yourusername/yourrepo/main/e0c4d915-ca5b-4c15-b4e7-3c39b1347ffb.png](https://github.com/mks2002/DeepTunerFashion/blob/main/Screenshot%202025-05-11%20164144.png)" width="400" title="Confusion Matrix"/>
+  <img src="https://github.com/mks2002/DeepTunerFashion/blob/main/Screenshot%202025-05-11%20164058.png" width="400" title="Loss & Accuracy Curves"/>
+  <img src="https://github.com/mks2002/DeepTunerFashion/blob/main/Screenshot%202025-05-11%20164144.png" width="400" title="Confusion Matrix"/>
 </p>
-
- 
 
 ---
 
@@ -80,13 +76,10 @@ This project tackles the Fashion MNIST image classification task using deep lear
 
 ## 🗂 Directory Structure
 
-```
-
 📁 Fashion-MNIST-CNN-Tuning
-├── mnist\_fashion\_classification.ipynb
+├── mnist_fashion_classification.ipynb
 ├── README.md
 
-```
 
 ---
 
@@ -114,6 +107,3 @@ This project tackles the Fashion MNIST image classification task using deep lear
 ## 📄 License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
-```
-
-
