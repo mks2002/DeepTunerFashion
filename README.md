@@ -106,6 +106,6 @@ This project tackles the Fashion MNIST image classification task using deep lear
 
 ---
 
-## 📄 License
+## ✍️ Author
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+**Mayuk Sarkar** – [@mayuksarkar](https://github.com/mks2002)
